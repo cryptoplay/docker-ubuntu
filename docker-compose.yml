@@ -1,7 +1,7 @@
 version: '2.1'
 
 services:
-  aws: &defaults
+  ubuntu: &defaults
     image: cryptoplay/ubuntu
     build:
       context: .
