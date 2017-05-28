@@ -8,4 +8,4 @@ docker push cryptoplay/ubuntu:${TAG}
 docker push cryptoplay/ubuntu:latest
 docker logout
 
-#curl -X POST 'https://hooks.microbadger.com/images/cryptoplay/ubuntu/HTlsERf3kLY4CZ-tMPP1Hywe2Ns='
+#curl -X POST 'https://hooks.microbadger.com/images/cryptoplay/ubuntu/RX3qWmAPgcpnPlHicohwrXxh3po='

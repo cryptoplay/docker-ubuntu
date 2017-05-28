@@ -4,7 +4,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cryptoplay/cci-ubuntu:20170528T1909-git-47731c6
+      - image: cryptoplay/cci-ubuntu:20170528T1950-git-65f3ede
 
     working_directory: ~/wtf/
 
