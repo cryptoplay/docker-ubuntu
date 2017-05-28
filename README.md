@@ -13,6 +13,6 @@ Docker image:       https://registry.hub.docker.com/u/cryptoplay/ubuntu/<br/>
 [![Version](https://images.microbadger.com/badges/version/cryptoplay/ubuntu.svg)](http://microbadger.com/images/cryptoplay/ubuntu "View on microbadger.com")
 [![Source code](https://images.microbadger.com/badges/commit/cryptoplay/ubuntu.svg)](http://microbadger.com/images/cryptoplay/ubuntu "View on microbadger.com")
 [![Docker Registry](https://img.shields.io/docker/pulls/cryptoplay/ubuntu.svg)](https://registry.hub.docker.com/u/cryptoplay/ubuntu)&nbsp;
-[![Circle CI](https://circleci.com/gh/cryptoplay/docker-ubuntu.png?circle-token=35697edcc84351ed5a53038ca8f9b1f2deaa7a2f)](https://circleci.com/gh/cryptoplay/docker-ubuntu/tree/master 'View CI builds')
+[![Circle CI](https://circleci.com/gh/cryptoplay/docker-ubuntu.png?circle-token=9dead2794fda47efe54eeac2e795ba61e65d3f17)](https://circleci.com/gh/cryptoplay/docker-ubuntu/tree/master 'View CI builds')
 
 [![Throughput Graph](https://graphs.waffle.io/cryptoplay/docker-ubuntu/throughput.svg)](https://waffle.io/cryptoplay/docker-ubuntu/metrics)
