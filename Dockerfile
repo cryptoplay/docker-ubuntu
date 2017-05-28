@@ -8,7 +8,7 @@ FROM ubuntu:16.04
 RUN groupadd -g 911 app \
  && useradd -m -s /bin/bash -g 911 -u 911 app
 
-ADD ./src/docker-apt-install.sh /usr/local/sbin/docker-apt-install
+ADD src/docker-apt-install.sh /usr/local/sbin/docker-apt-install
 RUN chmod 500 /usr/local/sbin/docker-apt-install
 
 RUN docker-apt-install apt-utils
